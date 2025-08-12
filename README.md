@@ -33,6 +33,7 @@ How to Run:
 3. Follow the console prompts.
 
 Author
-Balaga Anushka  
+-------
+Developed by [Balaga Anushka] as part of *Java OOP Task 3*.
 Java Developer Intern  
 Passionate about building practical, real-world Java applications.
